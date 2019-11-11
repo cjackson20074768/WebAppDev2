@@ -80,4 +80,4 @@ The storybook has been heavily drawn from the HackerApp lab work.
 
 [main]: ./imgs/mainpage.gif
 [reminders]: ./imgs/reminders.gif
-[stories]: ./imgs/stories.png
+[stories]: ./imgs/stories.PNG
